@@ -10,3 +10,8 @@
 ## Vídeo
 
 ![titulos](./prints/demo.png)
+
+### Créditos
+
+- Layout da lista foi baseada no [cb2307](https://codepen.io/cb2307/pen/XYxyeY)
+- Layout do video foi baseado no [benjipott](https://codepen.io/benjipott/pen/JELELN)
